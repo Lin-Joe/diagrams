@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:37:13.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XUSLqdSSoCMKBJCtz5Pr" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T14:21:51.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kYUsxIGU61sebwiOzW8x" version="21.1.5" type="github">
   <diagram name="第 1 页" id="Ju0-avv5zDt16aAJNqDI">
-    <mxGraphModel dx="714" dy="369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1419" dy="349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,27 @@
         </mxCell>
         <mxCell id="UDgKOsN9z5PgCGdHtOf0-13" value="$$\frac{1}{2}x^2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF2F0F;" vertex="1" parent="1">
           <mxGeometry x="563" y="312" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-14" value="&lt;div&gt;$$&lt;span style=&quot;background-color: initial;&quot;&gt;\lim _{x \rightarrow \square} f(x)=A \Leftrightarrow f(x)=A+\alpha&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4" y="565" width="381" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-15" value="$$\lim _{x \rightarrow \square} f(x)=A \Leftrightarrow f(x)=A+\alpha&lt;div&gt;\lim _{n \rightarrow \infty} x_n=a \Leftrightarrow x_n=a+\alpha$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-101" y="624" width="368" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-16" value="$$\lim _{x \rightarrow \square} f(x)=A \Leftrightarrow f(x)=A+\alpha$$&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127" y="704" width="381" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-18" value="$$\lim _{n \rightarrow \infty} x_n=a \Leftrightarrow x_n=a+\alpha$$&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="738" width="369" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-19" value="$$\lim&amp;nbsp;_{n&amp;nbsp;\rightarrow&amp;nbsp;\infty}&amp;nbsp;x^n=\left\{\begin{array}{cc}&lt;br&gt;0,&amp;nbsp;&amp;amp;&amp;nbsp;|x|&amp;lt;1,&amp;nbsp;\\&lt;br&gt;\infty,&amp;nbsp;&amp;amp;&amp;nbsp;|x|&amp;gt;1,&amp;nbsp;\\&lt;br&gt;1,&amp;nbsp;&amp;amp;&amp;nbsp;x=1,&amp;nbsp;\\&lt;br&gt;\text&amp;nbsp;{&amp;nbsp;不存在,&amp;nbsp;}&amp;nbsp;&amp;amp;&amp;nbsp;x=-1&amp;nbsp;.&lt;br&gt;\end{array}\right.$$&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="803" width="307" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-20" value="&lt;div&gt;$$&lt;/div&gt;&lt;div&gt;\text{当}n→\infty \text{时}&lt;/div&gt;&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;\,\,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sqrt[n]{a}→1&lt;/div&gt;&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;\,\,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sqrt[n]{n}→1&lt;/div&gt;&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;\,\,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sqrt[n]{n!}→\infty&amp;nbsp;&lt;/div&gt;&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381" y="910" width="151" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UDgKOsN9z5PgCGdHtOf0-21" value="$$\text{当}n→\infty \text{时}&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;\,\,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sqrt[n]{a}→1&lt;/div&gt;&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;\,\,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sqrt[n]{n}→1&lt;/div&gt;&lt;div&gt;\\&lt;/div&gt;&lt;div&gt;\,\,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sqrt[n]{n!}→\infty&amp;nbsp;&lt;/div&gt;&lt;div&gt;\\$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="918" width="164" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
