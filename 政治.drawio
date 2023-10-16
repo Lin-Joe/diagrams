@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T11:15:55.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.6.1" etag="TLMQ9RK59NdciKr3pqWw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T12:54:39.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="50LHS4OKlse5atBl8N_H" version="21.6.1" type="github">
   <diagram name="第 1 页" id="tzhNpH3wn8uJp7G78d_e">
-    <mxGraphModel>
+    <mxGraphModel dx="676" dy="354" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="250" as="sourcePoint" />
+            <mxPoint x="150" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-6" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-7" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-10" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-14" value="时期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-15" value="国情" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-16" value="1840&lt;br&gt;鸦片战争&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-17" value="旧民主主义革命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-18" value="新民主主义革命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-19" value="社会主义革命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-20" value="社会主义初级阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-23" value="1919&lt;br&gt;五四运动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-26" value="1949&lt;br&gt;新中国成立" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="230" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="230" as="sourcePoint" />
+            <mxPoint x="360" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-30" value="" style="endArrow=none;html=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nZf0c_X3d5ZhZT4HCy46-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-33" value="1956&lt;br&gt;三大改造完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="190" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-35" value="社会主义建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="255" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-36" value="半殖民地半封建社会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="285" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-37" value="新民主主义社会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="nZf0c_X3d5ZhZT4HCy46-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-12" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-42" value="近代史" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="nZf0c_X3d5ZhZT4HCy46-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="560" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-45" value="现代史" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nZf0c_X3d5ZhZT4HCy46-43">
+          <mxGeometry x="0.0196" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZf0c_X3d5ZhZT4HCy46-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
